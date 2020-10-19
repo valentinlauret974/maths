@@ -6,30 +6,6 @@ Created on Fri Oct 16 16:57:06 2020
 """
 
 """
-print("Hello world!")
-"""
-
-"""
-import unittest
-
-class SimpleCall(unittest.TestCase):
-        def setUp(self):
-            print("setup")
-            
-        def tearDown(self):
-            print("Tear down")
-            
-        def test_main(self):
-            #code for the test
-            self.assertEqual(2,2,'We are not Equal')
-            self.assertGreater(5,4,"3 is not greater than 4")
-
-            
-
-unittest.main()
-"""
-
-"""
 Fibonacci numbers function.
 """
 
