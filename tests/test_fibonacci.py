@@ -39,7 +39,7 @@ class TestFibonacci(unittest.TestCase):
 
   def test_fibonacci1(self):
     """ Test fibonacci(1). """
-    self.assertEqual(1, fibonacci(1))
+    self.assertEqual(2, fibonacci(1))
 
   def test_fibonacci2(self):
     """ Test fibonacci(2). """
